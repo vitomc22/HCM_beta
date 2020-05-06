@@ -26,7 +26,7 @@ Dispinibiliza informações gerais como horários de atendimento e médicos de p
 
 
 # Tecnologias
-QT/C++;
-QML;
-ORACLE DATABASE;
+QT/C++ //
+QML //
+ORACLE DATABASE
 
